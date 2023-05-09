@@ -69,7 +69,7 @@ To use GooDorks, follow these steps:
 
 3. View the list of websites that match your query.
 
-   ![Step 4](images/step4.png)
+   ![Step 3](images/step3.png)
 
 ## Disclaimer
 
