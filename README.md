@@ -49,7 +49,7 @@ To install GooDorks, follow these steps:
 
    ````
 
-   node goodorks.js
+   node goodork.js
 
    ```
 
